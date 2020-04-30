@@ -63,3 +63,7 @@
 17. Select "Other", under "Name" type "smsreminders" and then "Create"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step17.png)
+
+18. On this screen you can copy your Client ID and Client Secret
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step18.png)
