@@ -23,3 +23,23 @@
 07. Click on "Enable APIS and Services"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step07.png)
+
+08. Under "Welcome to the API Library" type "calendar"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step08.png)
+
+09. Select "Google Calendar API"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step09.png)
+
+10. Click "Enable"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step10.png)
+
+11. Click "Credentials"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step11.png)
+
+12. Click "Configure consent screen"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step12.png)
