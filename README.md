@@ -8,7 +8,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step03.png)
 
-04. Under "Project Name" type "smsreminders" and click "Create"
+04. Under "Project Name" type your project name and click "Create"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step04.png)
 
@@ -16,7 +16,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step05.png)
 
-06. And select the "smsremiders" project
+06. And select your project
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step06.png)
 
@@ -48,7 +48,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step13.png)
 
-14. Under "Application Name" type "smsreminders" and scroll all the way down at the bottom of the page
+14. Under "Application Name" type your project name and scroll all the way down at the bottom of the page
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step14.png)
 
@@ -60,7 +60,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step16.png)
 
-17. Select "Other", under "Name" type "smsreminders" and then "Create"
+17. Select "Other", under "Name" type your project name and then "Create"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step17.png)
 
