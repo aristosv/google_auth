@@ -43,3 +43,23 @@
 12. Click "Configure consent screen"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step12.png)
+
+13. Select "External" and click "Create"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step13.png)
+
+14. Under "Application Name" type "smsreminders" and scroll all the way down at the bottom of the page
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step14.png)
+
+15. Click "Save"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step15.png)
+
+16. Click "Credentials", then "Create Credentials" and "OAuth client ID"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step16.png)
+
+17. Select "Other", under "Name" type "smsreminders" and then "Create"
+
+![alt text](https://github.com/aristosv/gcalcli/blob/master/step17.png)
