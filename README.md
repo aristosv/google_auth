@@ -1,6 +1,6 @@
 01. Go to the Google developer console https://console.developers.google.com/
 
-02. Click on "**My Project**"
+02. Click "**My Project**"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step02.png)
 
@@ -48,7 +48,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step13.png)
 
-14. Under "**Application Name**" type your project name and scroll all the way down at the bottom of the page
+14. Under "**Application Name**" type your project name and **scroll all the way down to the bottom of the page**
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step14.png)
 
