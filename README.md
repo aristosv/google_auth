@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step02.png)
 
-03. Click on "**New Project**"
+03. Click "**New Project**"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step03.png)
 
@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step04.png)
 
-05. Click on "**My Project**" again
+05. Click "**My Project**" again
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step05.png)
 
