@@ -60,7 +60,7 @@
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step16.png)
 
-17. Select "**Other**", under "**Name**" type your project name and then "**Create**"
+17. Select "**Desktop App**", under "**Application Type**" type your project name and then "**Create**"
 
 ![alt text](https://github.com/aristosv/gcalcli/blob/master/step17.png)
 
