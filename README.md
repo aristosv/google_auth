@@ -57,12 +57,12 @@ Select "**Save and continue**"
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step011.png)
 ```
 ```
-**Step 12**. On the next screen select "**Save and continue**" again
+**Step 12**. On the **Scopes** screen select "**Save and continue**" again
 
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step012.png)
 ```
 ```
-**Step 13**. On the next screen select "**Save and continue**" again
+**Step 13**. On the **Optional Info** screen select "**Save and continue**" again
 
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step013.png)
 ```
