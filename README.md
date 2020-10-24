@@ -1,4 +1,4 @@
-01. Go to the Google developer console https://console.developers.google.com/
+01. Go to the Google developers console https://console.developers.google.com/
 
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step001.png)
 
