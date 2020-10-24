@@ -48,11 +48,10 @@
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step010.png)
 ```
 ```
-**Step 11**. - "**App name**": type your project name
-
-    - "**User support email**": select the available email address
-    
-    - "**Developer contact information**": enter any email address
+**Step 11**. 
+- "**App name**": type your project name
+- "**User support email**": select the available email address
+- "**Developer contact information**": enter any email address
 Select "**Save and continue**"    
 
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step011.png)
