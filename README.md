@@ -48,7 +48,7 @@
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step010.png)
 ```
 ```
-**Step 11**. 
+**Step 11**. On the **OAuth consent screen** enter the following information
 - **App name**: type your project name
 - **User support email**: select the available email address
 - **Developer contact information**: enter any email address
