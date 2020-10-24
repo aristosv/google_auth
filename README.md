@@ -2,7 +2,8 @@
 
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step001.png)
 ---
-
+```
+```
 
 **Step 02**. Click "**Select a project**"
 
