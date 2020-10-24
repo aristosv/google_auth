@@ -1,69 +1,70 @@
 01. Go to the Google developer console https://console.developers.google.com/
 
-02. Click "**My Project**"
+![alt text](https://github.com/aristosv/google_auth/blob/master/step001.png)
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step02.png)
+02. Click "**Select a project**"
 
-03. Click "**New Project**"
+![alt text](https://github.com/aristosv/google_auth/blob/master/step002.png)
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step03.png)
+03. Select "**New Project**"
+
+![alt text](https://github.com/aristosv/google_auth/blob/master/step003.png)
 
 04. Under "**Project Name**" type your project name and click "**Create**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step04.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step004.png)
 
-05. Click "**My Project**" again
+05. Make sure your project is selected and click "**Enable APIS and Services**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step05.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step005.png)
 
-06. And select your project
+06. Search for "**calendar**" and select "**Google Calendar API**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step06.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step006.png)
 
-07. Click on "**Enable APIS and Services**"
+07. Click the "**Enable**" button
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step07.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step007.png)
 
-08. Under "**Welcome to the API Library**" type "**calendar**"
+08. Select "**Credentials**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step08.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step008.png)
 
-09. Select "**Google Calendar API**"
+09. Select "**Configure consent screen**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step09.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step009.png)
 
-10. Click "**Enable**"
+10. Select "**External**" and click "**Create**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step10.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step010.png)
 
-11. Click "**Credentials**"
+11. "**App name**": type your project name
+    "**User support email**": select the available email address
+    "**Developer contact information**": enter any email address
+Select "**Save and continue**"    
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step11.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step011.png)
 
-12. Click "**Configure consent screen**"
+12. On the next screen select "**Save and continue**" again
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step12.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step012.png)
 
-13. Select "**External**" and click "**Create**"
+13. On the next screen select "**Save and continue**" again
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step13.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step013.png)
 
-14. Under "**Application Name**" type your project name and **scroll all the way down to the bottom of the page**
+14. On the next screen select "**Back to Dashboard**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step14.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step014.png)
 
-15. Click "**Save**"
+15. Click "**Credentials**", then "**Create Credentials**" and "**OAuth client ID**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step15.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step015.png)
 
-16. Click "**Credentials**", then "**Create Credentials**" and "**OAuth client ID**"
+16. Under "**Application Type**" select "**Desktop App**",  type your project name and then "**Create**"
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step16.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step016.png)
 
-17. Select "**Desktop App**", under "**Application Type**" type your project name and then "**Create**"
+17. On this screen you can copy your Client ID and Client Secret
 
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step17.png)
-
-18. On this screen you can copy your Client ID and Client Secret
-
-![alt text](https://github.com/aristosv/gcalcli/blob/master/step18.png)
+![alt text](https://github.com/aristosv/google_auth/blob/master/step017.png)
