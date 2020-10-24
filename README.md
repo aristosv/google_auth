@@ -67,7 +67,7 @@
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step013.png)
 ```
 ```
-**Step 14**. On the next screen select "**Back to Dashboard**"
+**Step 14**. On the **Summary** screen select "**Back to Dashboard**"
 
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step014.png)
 ```
