@@ -23,7 +23,7 @@
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step005.png)
 ```
 ```
-**Step 06**. Select "**Select a project**"
+**Step 06**. Click "**Select a project**"
 
 ![alt text](https://github.com/aristosv/google_auth/blob/master/step006.png)
 ```
